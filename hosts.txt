@@ -1,3 +1,0 @@
-
-[staging servers]
-linux1 ansible_host=localhost  ansible_user=pvkucher
