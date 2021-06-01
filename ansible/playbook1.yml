@@ -1,7 +1,7 @@
 ---
 - name: Test Connection to my servers
-  hosts: localhost
-  #become: yes
+  hosts: all
+  become: yes
 
   tasks:
  
